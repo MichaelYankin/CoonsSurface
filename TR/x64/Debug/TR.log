@@ -1,0 +1,6 @@
+﻿  TR.cpp
+C:\Users\m_yan\source\repos\TR\TR\TR.cpp(96,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\m_yan\source\repos\TR\TR\TR.cpp(96,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  matrix.cpp
+  Generating Code...
+  TR.vcxproj -> C:\Users\m_yan\source\repos\TR\x64\Debug\TR.exe
